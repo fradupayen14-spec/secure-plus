@@ -1,0 +1,61 @@
+﻿Target,Type,Risk,Score,Reasons,Scanned At
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-12 22:35:51
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-12 22:36:17
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-12 22:36:24
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-12 22:40:14
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-13 00:32:12
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-13 00:32:17
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-13 00:59:56
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-13 01:00:02
+https://example.com,URL,Low,0,No configured suspicious patterns found,2026-10-13 01:01:20
+https://www.wikipedia.org,URL,Low,0,No configured suspicious patterns found,2026-10-13 01:01:31
+https://www.google.com,URL,Low,0,No configured suspicious patterns found,2026-10-13 01:01:42
+https://example.com/login/verify/account,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:01:57
+http://example.com,URL,Medium,1,HTTPS is not used,2026-10-13 01:02:08
+https://www.instagram.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:40:19
+https://www.instagram.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:40:40
+https://www.instagram.com/login,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:41:12
+https://www.instagram.com/login,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:47:45
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:02
+https://www.youtube.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:09
+https://www.tiktok.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:18
+https://www.linkedin.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:27
+https://www.instagram.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:36
+https://x.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:43
+https://www.reddit.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:52
+https://www.pinterest.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:48:59
+https://youtu.be/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:49:08
+https://facebook.com.example.org/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:49:21
+https://facebook.com.example.org/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:50:21
+https://facebook.com.example.org/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:50:25
+https://verify-account-update.example.com/,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:50:35
+https://example.com/login,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:50:47
+https://example.com/login,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:50:52
+https://example.com/login,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:51:23
+https://example.com/login,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:51:29
+https://verify-account-update.example.com/,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:51:42
+https://verify-account-update.example.com/,URL,Medium,1,Contains a sensitive-action keyword,2026-10-13 01:51:47
+http://www.youtube.com/,URL,Medium,1,HTTPS is not used,2026-10-13 01:51:58
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:52:09
+https://www.instagram.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 01:52:20
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 02:22:55
+https://www.youtube.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 02:23:04
+https://facebook.com.example.org/,URL,Medium,2,Possible Facebook lookalike domain,2026-10-13 02:23:20
+https://facebook.com.example.org/,URL,Medium,2,Possible Facebook lookalike domain,2026-10-13 02:23:26
+https://www.youtube.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 02:23:46
+https://facebook.com.example.org/,URL,Medium,2,Possible Facebook lookalike domain,2026-10-13 02:55:33
+https://example.com,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 02:55:38
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 02:55:43
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 03:03:19
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 03:11:04
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 03:11:14
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 03:15:25
+https://www.facebook.com/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 03:15:33
+https://www.instagram.com/username/,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 04:36:24
+https://www.facebook.com/username,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 04:36:38
+https://www.youtube.com/@channelname,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 04:36:50
+https://x.com/username,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 04:37:01
+http://nios-ac.in,URL,Medium,1,HTTPS is not used,2026-10-13 08:14:34
+http://old-nios-ac.in/,URL,Medium,1,HTTPS is not used,2026-10-13 08:14:59
+http://www.nios.gen.in/,URL,Medium,1,HTTPS is not used,2026-10-13 08:15:10
+.gov.in,URL,Low,0,No configured suspicious URL patterns found,2026-10-13 08:15:28
